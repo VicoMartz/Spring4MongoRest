@@ -1,0 +1,1 @@
+# Spring4 REST, JAX-RS, Jersey, Spring Data, MongoDB, Integration Sample
